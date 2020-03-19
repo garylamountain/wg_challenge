@@ -4,7 +4,7 @@ An app to upload and analyze images with Microsoft Azure's Computer Vision and c
 
 ## Setup & Run
 
-After cloning the project, you should be able to simply run ```npm start``` and the app will run on http://localhost:3000/.
+After cloning the project, you should be able to simply run ```npm start``` and the app will run on http://localhost:3000/. Alternatively, you can access a working demo of this app here: https://secure-reaches-76510.herokuapp.com/.
 
 ## Navigation
 
